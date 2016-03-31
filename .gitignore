@@ -81,3 +81,8 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+build/*
+*.swp
+*.3dsx
+*.smdh
